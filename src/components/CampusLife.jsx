@@ -1,6 +1,6 @@
 import React from 'react'
 import TestimonialSlider from './TestimonialSlider'
-import HeadingComp from './headingComp'
+import HeadingComp from './HeadingComp'
 
 const CampusLife = () => {
     return (
