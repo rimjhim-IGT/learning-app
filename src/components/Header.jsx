@@ -12,7 +12,7 @@ const Header = () => {
             <header className='relative'>
                 <div className='container absolute top-0 left-0 right-0  z-10'>
                     <div className="flex items-center justify-between md:py-5">
-                        <div className='w-16 md:w-[180px]'>
+                        <div className='w-16 md:w-[108px]'>
                             <img src="/images/logo.png" alt="logo" className='h-auto w-full' />
                         </div>
                         <ul className='max-md:hidden flex items-center gap-6 capitalize text-base font-medium font-montserrat text-white'>
